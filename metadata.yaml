@@ -1,0 +1,37 @@
+_repo: O-Vegetarismo-e-a-Moralidade-das-ra-as_24338
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lima, Jaime de Magalhães
+    aliases:
+    - Magalhães Lima, Jaime de
+    - De Magalhães Lima, Jaime
+    - Lima, Jaime de Magalhaes
+    - Lima, Jayme de Magalhães
+    birthdate: 1859
+    deathdate: 1936
+    gutenberg_agent_id: '9720'
+    url: http://www.gutenberg.org/2009/agents/9720
+    wikipedia: http://pt.wikipedia.org/wiki/Jaime_de_magalh%C3%A3es_lima
+description: ''
+gutenberg_issued: '2008-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24338'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: Produced by Pedro Saborano (produced from scanned images from BibRia)
+publication_note: "Porto:\r\nSociedade Vegetariana--editora\r\n393, Avenida Rodrigues\
+  \ de Freitas\r\n1912"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 9.^o volume da Biblioteca Vegetariana
+subjects:
+- !lcc 'TX'
+- !lcsh 'Vegetarianism'
+title: O Vegetarismo e a Moralidade das raças
+url: http://www.gutenberg.org/ebooks/24338
